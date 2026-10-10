@@ -34,7 +34,6 @@ Here's a quick look at the architecture:
 Scenario → Radar sim → Signal processing → Tracker → Data export
 
 
-More details in [`docs/METHODOLOGY.md`](docs/METHODOLOGY.md) if you want the technical version.
 
 ## Sensors
 
