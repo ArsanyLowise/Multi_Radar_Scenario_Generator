@@ -4,9 +4,9 @@ MATLAB framework I built for my PhD research on accident prediction. It simulate
 
 ## Demo
 
-[ Watch the demo (main_display_view.avi)](main_display_view.avi)
+[ Watch the demo (main_display_view.mp4)](main_display_view.mp4)
 
-![Demo](https://github.com/user-attachments/assets/40cae582-d619-4f35-bae4-8d917f3b88f8)
+![Demo]([https://github.com/user-attachments/assets/40cae582-d619-4f35-bae4-8d917f3b88f8](https://github.com/user-attachments/assets/1b563e30-4241-4ed0-a67e-a616887b2273))
 
 ## Why I built this
 
