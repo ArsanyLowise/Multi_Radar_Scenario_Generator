@@ -71,7 +71,7 @@ main
 
 Basic run with default parameters:
 
-```matlab
+
 main
 ```
 
