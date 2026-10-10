@@ -4,7 +4,7 @@ MATLAB framework I built for my PhD research on accident prediction. It simulate
 
 ## Demo
 
-[ Watch the demo (main_display_view.mp4)](main_display_view.mp4)
+[ Watch the demo (main_display_view.avi)](main_display_view.avi)
 
 ![Demo](https://github.com/user-attachments/assets/40cae582-d619-4f35-bae4-8d917f3b88f8)
 
