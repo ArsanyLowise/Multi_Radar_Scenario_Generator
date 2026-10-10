@@ -1,0 +1,22 @@
+# MATLAB autosave and temp files
+*.asv
+*.m~
+*.autosave
+slprj/
+*.slxc
+
+# Generated data (large, don't commit)
+*.mat
+Videos/
+Results/
+
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.avi    
+*.mp4  
